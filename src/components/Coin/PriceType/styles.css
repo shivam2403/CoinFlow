@@ -1,0 +1,13 @@
+@media only screen and (max-width: 800px) {
+    .toggle-btn{
+        font-size: 0.7rem !important;
+        padding: 0.5rem !important;
+    }
+}
+
+.toggle-btn{
+    background-color: rebeccapurple;
+}
+.active{
+    background-color: yellow !important;
+}
